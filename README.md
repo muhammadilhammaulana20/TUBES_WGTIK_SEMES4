@@ -75,7 +75,7 @@ Pastikan file berada dalam satu folder kerja.
 ```text
 project-folder/
 ├── bank.csv
-├── codingan (1).r
+├── Regresi Logistik.r
 └── README.md
 ```
 
